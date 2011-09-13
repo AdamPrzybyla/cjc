@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python26
 
 # Console Jabber Client
 # Copyright (C) 2004-2010 Jacek Konieczny
